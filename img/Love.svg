@@ -1,0 +1,18 @@
+<svg id="Love" xmlns="http://www.w3.org/2000/svg" width="178" height="178" viewBox="0 0 178 178">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 6px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="89" cy="89" r="86"/>
+  <path id="HEART" class="cls-2" d="M617.1,2927.04a18.255,18.255,0,0,0-13.542,5.74h-0.006s0,0.01,0,.01l-2.169,2.72-2.169-2.56s0-.01-0.007-0.01h0c-3.817-3.8-8.144-5.9-13.542-5.9a20.136,20.136,0,0,0-14.3,34.39l26.827,26.97a4.512,4.512,0,0,0,6.378,0l26.825-26.97a20.147,20.147,0,0,0-14.295-34.39h0Z" transform="translate(-512 -2869)"/>
+</svg>
